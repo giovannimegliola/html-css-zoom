@@ -45,9 +45,11 @@ header {
 
 .button{
     background-color: var(--first-color);
-    border-radius: 10px;
+    border-radius: 5px;
     color: white;
     width: fit-content;
+    display: inline;
+    font-size: 12px;
 }
 
 nav {
